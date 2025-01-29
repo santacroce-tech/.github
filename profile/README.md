@@ -14,10 +14,6 @@ Santacroce is a dedicated team deeply engaged in the blockchain technology lands
 
 - **Scalability and Transaction Speeds:** Working on Bitcoin Layer 2 technologies to overcome challenges related to scalability and transaction speeds, showcasing a commitment to blockchain improvement.
 
-### Ethereum and Staking Platforms
-
-- **Automated Staking Platform:** Innovating in the Ethereum space by creating an automated staking platform and management tools that simplify the Proof of Stake process for users, prioritizing both security and ease of use.
-
 ## Our Team
 
 Santacroce's humble yet passionate team is making significant strides in blockchain technology, ensuring a more secure, efficient, and user-friendly cryptocurrency ecosystem.
