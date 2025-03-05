@@ -6,14 +6,6 @@
 
 Santacroce is a dedicated team deeply engaged in the blockchain technology landscape, committed to developing thoughtful solutions.
 
-### Stratum V2 and Mining Protocols
-
-- **Focus on Stratum V2:** Fine-tuning mining protocols to achieve better efficiency and foster greater decentralization.
-
-### Bitcoin Layer 2 Technologies
-
-- **Scalability and Transaction Speeds:** Working on Bitcoin Layer 2 technologies to overcome challenges related to scalability and transaction speeds, showcasing a commitment to blockchain improvement.
-
 ## Our Team
 
 Santacroce's humble yet passionate team is making significant strides in blockchain technology, ensuring a more secure, efficient, and user-friendly cryptocurrency ecosystem.
